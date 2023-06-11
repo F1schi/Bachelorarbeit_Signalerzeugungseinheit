@@ -7,7 +7,7 @@
 ---
 
 ## Inhaltsverzeichnis dies repositorys   
-* [Bachelorarbeit](Bachelorarbeit)
+* [Bachelorarbeit](Bachelorarbeit_Fischer.pdf)
 * [Arduino Programmcode](Platinenpruefung-code_main)
     * [AL - Algorithm Layer](Platinenpruefung-code_main/AL)
     * [DL - Driver Layer](Platinenpruefung-code_main/DL)
