@@ -12,7 +12,7 @@
     * [AL - Algorithm Layer](Platinenpruefung-code_main/AL)
     * [DL - Driver Layer](Platinenpruefung-code_main/DL)
     * [HAL - Hardware Abstraction Layer](Platinenpruefung-code_main/HAL)
-    * [Modbus Kommunikationsprotokoll](Modbus_Kommunikationsprotokoll.pdf)
+    * [Modbus Kommunikationsprotokoll](Platinenpruefung-code_main/Modbus_Kommunikationsprotokoll.pdf)
 * [Printed Circuit Board](PCB)
     * [Gerber files](PCB/Gerber/)
 * [Datenblätter](Datenblaetter)
