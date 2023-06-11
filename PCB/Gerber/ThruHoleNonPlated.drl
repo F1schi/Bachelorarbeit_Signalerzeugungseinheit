@@ -1,0 +1,23 @@
+; Version : LOCAL
+; Job     : F:\ECADdesigns\1405165-01-00-A\PCB\1405165-01-00-A.pcb
+; User    : AT01PC650:at10682
+; Date    : Tue May 09 13:00:11 2023
+; Format  : 5.4 / Absolute / MM / Leading
+; Contents: Thru / Drill / Non-Plated
+; RSF Elektronik
+M48
+METRIC,TZ
+FMAT,2
+ICI,OFF
+T09C3.0000
+%
+M71
+G90
+G93X0Y0
+T09
+X1100000Y50000
+X60000Y540000
+Y1005000
+X1100000Y1145000
+T00
+M30
